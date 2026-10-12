@@ -1,0 +1,7 @@
+Name,StudyHours,Attendance,FinalScore,StudyLevel,AttendanceLevel,PerformanceCategory,StudyAttendanceRatio,StudyCategory,Passed
+Ali,2,70,55,Low,Low,Average,0.02857142857142857,Beginner,True
+Sara,5,90,85,High,Good,Excellent,0.05555555555555555,Intermediate,True
+Ahmed,1,60,45,Low,Low,Needs Improvement,0.016666666666666666,Beginner,False
+Ayesha,6,95,92,High,Good,Excellent,0.06315789473684211,Advanced,True
+Usman,3,75,65,Low,Low,Average,0.04,Intermediate,True
+Hina,7,98,96,High,Good,Excellent,0.07142857142857142,Advanced,True
